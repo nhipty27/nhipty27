@@ -1,12 +1,12 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Phan Thi Yen. I am currently a 3nd year at Ho Chi Minh City University of Science ( HCMUS ), majoring in Software engineer. I am interested in the following topics: web dev.<br>
+My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City University of Science ( HCMUS ), majoring in Software engineer. I am interested in the following topics: web dev.<br>
 ## 📫 How to reach me: 
 
-[![Facebook](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ptynhi99/) 
+[![Facebook](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/y%E1%BA%BFn-nhi-phan-835694246/)) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ptynhi99/) 
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptynhi99&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

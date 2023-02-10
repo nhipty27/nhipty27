@@ -11,7 +11,7 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 <a href="https://github.com/ptynhi99/darklight/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=darklight&theme=radical" />
-</a> 
+</a>
 
 <a href="https://github.com/ptynhi99/darklight-server/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -44,10 +44,7 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
 </a>    
-<a href="https://github.com/uvipen/Photomosaic-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
-</a>
+
 
 <a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

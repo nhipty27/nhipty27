@@ -30,13 +30,10 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=white" title="C++" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=white" title="Java" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/postgres-282C34?logo=postgresql&logoColor=white" title="PostgreSQL" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-282C34?logo=microsoft%20sql%20server&logoColor=white" title="SQL" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" title="Java" height="25"/></span> &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" title="Java" height="25"/></span> &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" title="Java" height="25"/></span> &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" title="Java" height="25"/></span> &nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

@@ -29,7 +29,7 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/></span> &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=2300599C" title="C++" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599c" title="C++" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=23ED8B00" title="Java" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/postgres-282C34?logo=postgresql&logoColor=23316192" title="PostgreSQL" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-282C34?logo=microsoft%20sql%20server&logoColor=CC2927" title="SQL" height="25"/></span> &nbsp;

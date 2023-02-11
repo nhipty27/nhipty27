@@ -4,7 +4,7 @@
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Mobile+Developer;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer"></p>
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/></span> &nbsp;
@@ -54,7 +54,7 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=File-management-OS-HCMUS-&theme=cobalt" />
 </a>
 
-### 📈 User Statistics
+## 📈 User Statistics
 
 <table>
   <tbody>

@@ -29,6 +29,7 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFCA28" title="Java" height="25"/></span> &nbsp;
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 ![Nhi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptynhi99&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
@@ -63,33 +64,9 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&theme=dracula"/>
 </a>
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptynhi99">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptynhi99&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99&theme=dracula"/>
+</a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99&theme=dracula"/>
+</a>

@@ -54,6 +54,8 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=File-management-OS-HCMUS-&theme=cobalt" />
 </a>
 
+### 📈 User Statistics
+
 <table>
   <tbody>
     <tr>

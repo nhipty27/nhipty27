@@ -29,7 +29,7 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptynhi99&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nhi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptynhi99&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ptynhi99/darklight/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -58,13 +58,13 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptynhi99">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptynhi99&theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -72,13 +72,13 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99&theme=dracula"/>
         </a>
       </td>
     </tr>

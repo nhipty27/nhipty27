@@ -24,11 +24,13 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City University of Science ( HCMUS ), majoring in Software engineer. I am interested in the following topics: web dev.<br>
 ## 📫 How to reach me: 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008705461731)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptynhi99/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y%E1%BA%BFn-nhi-phan-835694246/)
 
-[![Facebook](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/y%E1%BA%BFn-nhi-phan-835694246/)) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ptynhi99/) 
 
 
-
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 ![Nhi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptynhi99&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ptynhi99/darklight/">

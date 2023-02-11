@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Mobile+Developer;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer"></p>
 
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City University of Science ( HCMUS ), majoring in Software engineer. I am interested in the following topics: web dev.<br>

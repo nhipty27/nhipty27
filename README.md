@@ -8,7 +8,7 @@ My name is Phan Thi Yen Nhi. I am currently a 4nd year at Ho Chi Minh City Unive
 ## 📫 How to reach me: 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008705461731)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhipty27/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y%E1%BA%BFn-nhi-phan-835694246/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phan-th%E1%BB%8B-y%E1%BA%BFn-nhi-835694246/)
 
 
 

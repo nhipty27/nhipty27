@@ -1,13 +1,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Front+End+Developer;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Web+Developer;"></p>
 
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City University of Science ( HCMUS ), majoring in Software engineer. I am interested in the following topics: web, mobile.<br>
+My name is Phan Thi Yen Nhi. I am currently a 4nd year at Ho Chi Minh City University of Science ( HCMUS ), majoring in Software engineer. I am interested in the following topics: web, mobile.<br>
 ## 📫 How to reach me: 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008705461731)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptynhi99/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhipty27/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y%E1%BA%BFn-nhi-phan-835694246/)
 
 
@@ -28,41 +28,41 @@ My name is Phan Thi Yen Nhi. I am currently a 3nd year at Ho Chi Minh City Unive
 
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-![Nhi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ptynhi99&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nhi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhipty27&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/ptynhi99/darklight/">
+<a href="https://github.com/nhipty27/darklight/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=darklight&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhipty27&repo=darklight&theme=radical" />
 </a>
 
-<a href="https://github.com/ptynhi99/darklight-server/">
+<a href="https://github.com/nhipty27/darklight-server/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=darklight-server&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhipty27&repo=darklight-server&theme=gruvbox" />
 </a>    
-<a href="https://github.com/ptynhi99/admin_dashboard/">
+<a href="https://github.com/nhipty27/admin_dashboard/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=admin_dashboard&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhipty27&repo=admin_dashboard&theme=dark" />
 </a>
 
-<a href="https://github.com/ptynhi99/gymfit/">
+<a href="https://github.com/nhipty27/gymfit/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=gymfit&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhipty27&repo=gymfit&theme=onedark" />
 </a>    
-<a href="https://github.com/ptynhi99/File-management-OS-HCMUS-/">
+<a href="https://github.com/nhipty27/File-management-OS-HCMUS-/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ptynhi99&repo=File-management-OS-HCMUS-&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhipty27&repo=File-management-OS-HCMUS-&theme=cobalt" />
 </a>
 
 ## 📈 User Statistics
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptynhi99">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptynhi99&theme=dracula"/>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhipty27">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhipty27&theme=dracula"/>
 </a>
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptynhi99&theme=dracula"/>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhipty27&">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhipty27&theme=dracula"/>
 </a>
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptynhi99&theme=dracula"/>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhipty27">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhipty27&theme=dracula"/>
 </a>
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ptynhi99&theme=dracula"/>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhipty27">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhipty27&theme=dracula"/>
 </a>
